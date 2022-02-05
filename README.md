@@ -27,8 +27,9 @@ THEN I find a concise, descriptive title
 ```
 ## I made the following updates to the existing code:
 
-- added alt text to images
+- added reset.css stylesheet- 
+added alt text to images
 - fixed anchor links on nav bar
-- added reset.css stylesheet
-- consolidated classes and ids in style.css
-- *to do: comment code for readability*
+- organized css file in order of elements on page
+- merged some id and class css elements
+- added comments to code
