@@ -1,4 +1,5 @@
 /* page settings */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -75,6 +76,7 @@ h3 {
     background-size: cover;
     background-position: center;
 }
+
 /* main content settings */
 
 .float-left {
